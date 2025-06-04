@@ -15,3 +15,11 @@ NymMatcher is an open-source toolkit for intelligent name matching, inspired by 
 
 📁 Support for JSON/CSV name variant dictionaries
 
+## Key Challenges in Multi-Part Name Matching
+* Ordering Variations: “Smith John” vs “John Smith”
+* Initials and Abbreviations: “J. Smith” vs “John Smith”
+* Nicknames and Aliases: “Bob” vs “Robert”
+* Missing Components: “John Smith” vs “John A. Smith”
+* Typos or OCR Errors: “Jon Smith” vs “John Smith”
+* Different Delimiters or Titles: “Mr. John Smith” vs “John Smith”
+
